@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Data Science Projects\customer-churn-prediction\mlflow_runs/944076202958117275/ed64502f7472473aba31c42034d587e0/artifacts
+end_time: 1776524510986
+entry_point_name: ''
+experiment_id: '944076202958117275'
+lifecycle_stage: active
+run_id: ed64502f7472473aba31c42034d587e0
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776524503743
+status: 3
+tags: []
+user_id: Ali Hyder

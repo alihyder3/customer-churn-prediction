@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Data Science Projects\customer-churn-prediction\mlflow_runs/944076202958117275/63a87ba728ca450187ac05eac0a83e67/artifacts
+end_time: 1776524495008
+entry_point_name: ''
+experiment_id: '944076202958117275'
+lifecycle_stage: active
+run_id: 63a87ba728ca450187ac05eac0a83e67
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776524491106
+status: 3
+tags: []
+user_id: Ali Hyder

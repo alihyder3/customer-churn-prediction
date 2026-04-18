@@ -1,0 +1,10 @@
+artifact_location: file:///D:\Data Science Projects\customer-churn-prediction\mlflow_runs/944076202958117275/models/m-825d70370f444cb893a0e1b19738b179/artifacts
+creation_timestamp: 1776524500894
+experiment_id: '944076202958117275'
+last_updated_timestamp: 1776524503728
+model_id: m-825d70370f444cb893a0e1b19738b179
+model_type: null
+name: model
+source_run_id: 21808669a6d744c18c5d6d56a2f1db5c
+status: 2
+status_message: null

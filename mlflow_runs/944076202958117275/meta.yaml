@@ -1,0 +1,8 @@
+artifact_location: file:///D:\Data Science Projects\customer-churn-prediction\mlflow_runs/944076202958117275
+creation_time: 1776524490945
+experiment_id: '944076202958117275'
+last_update_time: 1776524490945
+lifecycle_stage: active
+name: churn-prediction
+trace_location: null
+workspace: default

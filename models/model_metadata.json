@@ -1,0 +1,9 @@
+{
+  "model_name": "Logistic Regression",
+  "timestamp": "20260418_170150",
+  "metrics": {
+    "roc_auc": 0.8462,
+    "accuracy": 0.8027,
+    "f1_score": 0.5863
+  }
+}

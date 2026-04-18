@@ -1,0 +1,14 @@
+assessment_id: a-96153c69fd8b456fa45640d704fb0718
+assessment_name: expected_response
+create_time: '2026-04-18T15:04:39.641Z'
+expectation:
+  value: Enable mlflow.tracing.enable() to capture execution flow. Check the Traces
+    tab to inspect retrieved docs, prompts, and latency.
+last_update_time: '2026-04-18T15:04:39.641Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-d76df1f04a51be243159aaf85462f8f6
+valid: true

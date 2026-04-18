@@ -1,0 +1,14 @@
+artifact_uri: file:///D:\Data Science Projects\customer-churn-prediction\mlflow_runs/944076202958117275/cf55f1b6059b4a1389bf83228aea2c7a/artifacts
+end_time: 1776524500167
+entry_point_name: ''
+experiment_id: '944076202958117275'
+lifecycle_stage: active
+run_id: cf55f1b6059b4a1389bf83228aea2c7a
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776524495017
+status: 3
+tags: []
+user_id: Ali Hyder
